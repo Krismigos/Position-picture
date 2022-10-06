@@ -1,0 +1,28 @@
+body {
+    padding-bottom: 20px;
+}
+
+img {
+    display: block;
+    border-radius: 50%;
+    object-fit: cover;
+    border: solid;
+    border-color: rebeccapurple;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.img-girl {
+    width: 600px;
+    height: 600px;
+}
+
+.img-dog{
+    width: 600px;
+    height: 600px;
+    object-position: center;
+}
+
+.img-cat{   
+    object-position: bottom;
+}
